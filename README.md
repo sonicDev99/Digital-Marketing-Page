@@ -15,11 +15,7 @@
 
 ---
 
-<a href='#'>
-  
-## 👉 <img src='https://img.shields.io/badge/Live_preview-blue?style=for-the-badge'>
-  
-</a>
+## 👉 [![homepage](https://img.shields.io/badge/Live_preview-blue?style=for-the-badge)](https://joyful-peony-be2c87.netlify.app/ 'Redirect to homepage')
 
 ---
 
